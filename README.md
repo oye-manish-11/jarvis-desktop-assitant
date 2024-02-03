@@ -1,2 +1,1 @@
-# OIBGRIP
-this is  internship project done by myself.
+this is virtual ai desktop assistant using jarvis  python 
